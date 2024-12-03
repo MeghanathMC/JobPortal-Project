@@ -1,0 +1,42 @@
+[
+  {
+    "name": "accenture",
+    "path": "/companies/accenture.png",
+    "id": 1
+  },
+  {
+    "name": "atlassian",
+    "path": "/companies/atlassian.svg",
+    "id": 2
+  },
+  {
+    "name": "amazon",
+    "path": "/companies/amazon.svg",
+    "id": 3
+  },
+  {
+    "name": "ibm",
+    "path": "/companies/ibm.svg",
+    "id": 4
+  },
+  {
+    "name": "capgemini",
+    "path": "/companies/capgemini.png",
+    "id": 5
+  },
+  {
+    "name": "infosys",
+    "path": "/companies/infosys.jpeg",
+    "id": 6
+  },
+  {
+    "name": "techmahindra",
+    "path": "/companies/tech.png",
+    "id": 7
+  },
+  {
+    "name": "uber",
+    "path": "/companies/uber.svg",
+    "id": 8
+  }
+]
